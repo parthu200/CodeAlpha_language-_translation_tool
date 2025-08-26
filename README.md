@@ -1,1 +1,2 @@
-# CodeAlpha_language-_translation_tool
+# Language Translation Tool
+Run with `python app.py` after installing requirements.
